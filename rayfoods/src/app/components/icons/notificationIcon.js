@@ -1,7 +1,6 @@
 import React from "react";
 
 function NotificationIcon() {
-    
   return (
     <span className="notification-icon">
       <svg
